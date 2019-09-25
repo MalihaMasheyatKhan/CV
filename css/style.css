@@ -1,0 +1,24 @@
+body {
+	font-family: 'Roboto',sans-serif;
+}
+
+
+
+
+h2{
+			color:black;
+			
+		}
+
+img{
+	border: 5px solid gray ;
+
+	
+	
+}
+
+table#t1, td, th{
+	border: 1px solid black;
+
+
+}
